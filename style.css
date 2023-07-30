@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+div{
+    color: lime;
+    font-size: 70px;
+    letter-spacing: 6px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    width: 50%;
+}
